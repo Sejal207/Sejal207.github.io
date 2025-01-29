@@ -1,0 +1,38 @@
+{
+  "brand-name": {
+    "logo": "/assets/portfolio/TGA.png",
+    "heroVideo": "/assets/portfolio/11.png",
+    "title": "The Global Address",
+    "nextProject": "brand-two",
+    "prevProject": "brand-four",
+    "description": "Created brand identity and guidelines for the Global Address, a leading real estate consultancy firm specializing in luxury properties and international investments. The project encompassed a complete digital presence and marketing strategy.",
+    "services": "Brand Collaterals",
+    "primaryColors": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "White", 
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Gold Standard",
+        "gradient": {
+          "start": "#C8851F",
+          "end": "#FFE58B"
+        }
+      }
+    ],
+    "mobileScreens": [
+      "/assets/portfolio/12.png",
+      "/assets/portfolio/13.svg"
+    ],
+    "desktopScreens": [
+      "/assets/portfolio/14.png"
+    ],
+    "desktopScreens2": [
+      "/assets/portfolio/15.png"
+    ]
+  }
+}

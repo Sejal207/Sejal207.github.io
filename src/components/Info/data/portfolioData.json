@@ -1,0 +1,103 @@
+{
+  "abiliti-aids": {
+    "id": "abiliti-aids",
+    "logo": "/assets/portfolio/2.png",
+    "heroImage": "/assets/portfolio/1.png",
+    "title": "Abiliti Aids",
+    "description": "Abiliti Aids is dedicated to empowering individuals with disabilities by designing innovative equipment that enhances independence and promotes barrier-free living. Their mission is to create products that cater to diverse needs while inspiring confidence and self-reliance. Serving individuals with disabilities and therapists committed to supporting their clients' journeys, Abiliti Aids fosters an inclusive environment where everyone can thrive. With a vision of a world where every individual experiences the freedom to live life to the fullest, Abiliti Aids continues to champion accessibility and empowerment for all.",
+    "services": "Brand Identity | Graphic Design",
+    "brandIdentity": {
+      "logos": [
+        {
+          "type": "primary",
+          "image": "/assets/portfolio/2.png",
+          "description": "Primary logo with green symbol and black text"
+        },
+        {
+          "type": "symbol",
+          "image": "/assets/portfolio/3.png",
+          "description": "Standalone symbol for icon usage"
+        },
+        {
+          "type": "application",
+          "image": "/assets/portfolio/4.png",
+          "description": "Logo application on white t-shirt"
+        },
+        {
+          "type": "application",
+          "image": "/assets/portfolio/5.png",
+          "description": "Logo application on white t-shirt"
+        }
+      ]
+    },
+    "colorPalette": {
+      "primary": [
+        {
+          "name": "Green",
+          "hex": "#4CAF50",
+          "rgb": "76, 175, 80"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#FFD54F",
+          "rgb": "255, 213, 79"
+        },
+        {
+          "name": "Dark Green",
+          "hex": "#2E7D32",
+          "rgb": "46, 125, 50"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF",
+          "rgb": "255, 255, 255"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000",
+          "rgb": "0, 0, 0"
+        },
+        {
+          "name": "Sky Blue",
+          "hex": "#87CEEB",
+          "rgb": "135, 206, 235"
+        }
+      ]
+    },
+    "typography": {
+      "primary": {
+        "name": "Mallory",
+        "image": "/assets/portfolio/8.png",
+        "weights": ["Light", "Regular", "Bold", "Black"]
+      },
+      "secondary": {
+        "name": "Inter",
+        "image": "/assets/portfolio/9.png",
+        "weights": ["Light", "Regular", "Bold", "Black"]
+      }
+    },
+    "applications": {
+      "print": [
+        {
+          "title": "Breaking Social Stigma",
+          "image": "/assets/portfolio/6.png",
+          "type": "Brochure Cover"
+        },
+        {
+          "title": "Exploring Social Frontiers",
+          "image": "/assets/portfolio/7.png",
+          "type": "Magazine Cover"
+        }
+      ],
+      "digital": [
+        {
+          "title": "Social Media",
+          "image": "/assets/portfolio/10.png",
+          "type": "Instagram Post"
+        }
+      ]
+    },
+    "nextProject": "eco-harvest",
+    "prevProject": "tech-innovate"
+  }
+}
